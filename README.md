@@ -1,16 +1,14 @@
-### Hi there 👋
+#### Hi, I'm Srini 👋
 
-<!--
-**srinivasnarula/srinivasnarula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# I'm a Developer, Blogger, Problem Solver !!
 
-Here are some ideas to get you started:
+- 👨‍💻 I’m currently working on Microsoft Stack and loads of Open Source Softwares & Tools.
+- 🌱 I’m currently learning everything 😄
+- 👯 I’m looking to collaborate on blockchain related projects (Especially Substrate)
+- 💬 Ask me about Microsoft 365 development challenges and Architecture of SaaS Solutions.
+- 📫 You can reach me on : [NarulaSrinivas](https://twitter.com/NarulaSrinivas )
+- 🇬🇧 I'm based in [Orpington](https://en.wikipedia.org/wiki/Orpington), near London City.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Personal Motto
+- 📖 Try-Fail-Learn!
+- 🪁 continual incremental improvement 🤩
