@@ -1,6 +1,6 @@
 #### Hi, I'm Srini 👋
 
-# I'm a Developer, Blogger, Problem Solver !!
+# I'm a Problem Solver !!
 
 - 👨‍💻 I’m currently working on Microsoft Stack and loads of Open Source Softwares & Tools.
 - 🌱 I’m currently learning everything 😄
